@@ -10,7 +10,6 @@ Code: https://colab.research.google.com/drive/1AjG5jYbhW9QjtlfA5awo8Dw2_A-5Ie57
 
 <img width="960" alt="pop4" src="https://github.com/MahmudShuvo/Image-captioning-using-Deep-Learning/assets/63647247/0402859d-0afb-4aa3-b819-13b20f56809a">
 
-Presentation (Group): https://docs.google.com/presentation/d/1q5-CP4-tu8eHSrogLH2SGCjH7KvZyr3ZUJMKx65WjqM/edit
 
 Overleaf: https://www.overleaf.com/project/64982db03f0c41f4e8ebb1af
 
