@@ -13,8 +13,6 @@ Additinal result images of the code:
 
 
 
-Lastly, paper: https://drive.google.com/drive/u/0/folders/1XkGs0TH5jH5nHlK_BzDBLvkFaCdEUhEf
 
 
-Track name: ICCITconf2023
-Paper ID: 311
+Track name: ICCITconf2023, Paper ID: 311
